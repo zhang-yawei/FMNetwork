@@ -220,7 +220,7 @@
 		1F2CFA5D1EE93B70006E3BA8 /* Network */ = {
 			isa = PBXGroup;
 			children = (
-				1F2CFBA11EE93BC4006E3BA8 /* TYNetwork */,
+				1F2CFBA11EE93BC4006E3BA8 /* FMNetwork */,
 				1F2CFA5E1EE93B70006E3BA8 /* Converter */,
 				1F2CFA651EE93B70006E3BA8 /* model */,
 				1F2CFAC31EE93B70006E3BA8 /* RequestModel */,
@@ -283,7 +283,7 @@
 			path = Tool;
 			sourceTree = "<group>";
 		};
-		1F2CFBA11EE93BC4006E3BA8 /* TYNetwork */ = {
+		1F2CFBA11EE93BC4006E3BA8 /* FMNetwork */ = {
 			isa = PBXGroup;
 			children = (
 				1F2CFBA21EE93BC4006E3BA8 /* FMDownloadRequest.h */,
@@ -307,6 +307,7 @@
 				1F829D211EE94BEB0085B75F /* FMResponseSerializer.h */,
 				1F829D221EE94BEB0085B75F /* FMResponseSerializer.m */,
 			);
+			name = FMNetwork;
 			path = TYNetwork;
 			sourceTree = "<group>";
 		};
